@@ -34,8 +34,7 @@ public class driveStraight extends Command {
   @Override
   protected void execute() {
 
-    
-    // Robot.m_driveSubsystem.tankDrive(0.50,0.50);
+    Robot.m_driveSubsystem.tankDrive(0.50,0.50);
     SmartDashboard.putNumber("time",Timer.getFPGATimestamp());
 
   }
