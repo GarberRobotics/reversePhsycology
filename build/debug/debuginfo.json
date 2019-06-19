@@ -1,0 +1,9 @@
+[
+  {
+    "artifact": "frcJava (in project reversePhsycology)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "reversePhsycology",
+    "language": "java"
+  }
+]
